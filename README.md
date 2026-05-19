@@ -21,8 +21,8 @@ Run Locally
 Just open index.html in a browser. Example:
 
 index.html → right click → Open with your browser
-Screenshot / Demo
-(Add a screenshot or GIF here when you upload to GitHub.)
+
+or use this link :https://t-vamsi-8055.github.io/tic-tac-toe/
 
 Notes (Code Logic)
 The board state is stored in an array (pre) and winning lines are checked via arr.
