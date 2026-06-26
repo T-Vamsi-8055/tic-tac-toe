@@ -24,6 +24,9 @@ index.html → right click → Open with your browser
 
 or use this link :https://t-vamsi-8055.github.io/tic-tac-toe/
 
+
+or this link in vercel https://tic-tac-toe-nu-nine-61.vercel.app/
+
 Notes (Code Logic)
 The board state is stored in an array (pre) and winning lines are checked via arr.
 The click handler alternates between placing O and X, updates the status (h2), and stops the game on win/draw.
