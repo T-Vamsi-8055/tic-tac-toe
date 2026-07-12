@@ -14,6 +14,8 @@ Continue until:
 a player wins, or
 all cells are filled (draw).
 Project Structure
+
+
 index.html - Game UI (grid + status text)
 style.css - Styling for the board and cells
 script.js - Game logic (turn handling, win/draw checks)
@@ -30,3 +32,4 @@ or this link in vercel https://tic-tac-toe-nu-nine-61.vercel.app/
 Notes (Code Logic)
 The board state is stored in an array (pre) and winning lines are checked via arr.
 The click handler alternates between placing O and X, updates the status (h2), and stops the game on win/draw.
+![Profile Views](https://komarev.com/ghpvc/?username=T-Vamsi-8055&color=blue)
